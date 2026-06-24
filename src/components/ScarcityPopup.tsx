@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from 'motion/react';
 const popupTranslations = {
   en: {
     headerNotice: "STRICT QUARTERLY CAPACITY LIMIT",
-    badge: "⚠️ Client Limit",
+    badge: "Client Limit",
     heading: "Pragmatic Quality Control",
     text1: "To guarantee pristine, error-free books & dedicated professional attention, we only onboard",
     text1Highlight: "8 new accounts each quarter",
@@ -19,7 +19,7 @@ const popupTranslations = {
   },
   hi: {
     headerNotice: "कठोर त्रैमासिक क्षमता सीमा",
-    badge: "⚠️ नोटिस",
+    badge: "नोटिस",
     heading: "व्यावहारिक गुणवत्ता नियंत्रण",
     text1: "सटीक, त्रुटि-रहित बहीखाता और समर्पित व्यावसायिक ध्यान सुनिश्चित करने के लिए, हम केवल ऑनबोर्ड करते हैं",
     text1Highlight: "प्रत्येक तिमाही में 8 नए खाते",
@@ -32,7 +32,7 @@ const popupTranslations = {
   },
   kn: {
     headerNotice: "ಕಟ್ಟುನಿಟ್ಟಾದ ತ್ರೈಮಾಸಿಕ ಸಾಮರ್ಥ್ಯ ಮಿತಿ",
-    badge: "⚠️ ಸೂಚನೆ",
+    badge: "ಸೂಚನೆ",
     heading: "ಪ್ರಾಯೋಗಿಕ ಗುಣಮಟ್ಟ ನಿಯಂತ್ರಣ",
     text1: "ನಿಖರವಾದ ಮತ್ತು ದೋಷ-ಮುಕ್ತ ಬುಕ್ಕೀಪಿಂಗ್ ಹಾಗೂ ಬದ್ಧ ವೃತ್ತಿಪರ ಗಮನವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು, ನಾವು ಕೇವಲ ಸೇರಿಸಿಕೊಳ್ಳುತ್ತೇವೆ",
     text1Highlight: "ಪ್ರತಿ ತ್ರೈಮಾಸಿಕದಲ್ಲಿ 8 ಹೊಸ ಖಾತೆಗಳು",
@@ -45,7 +45,7 @@ const popupTranslations = {
   },
   te: {
     headerNotice: "కఠినమైన త్రైమాసిక సామర్థ్య పరిమితి",
-    badge: "⚠️ నోటీసు",
+    badge: "నోటీసు",
     heading: "ఆచరణాత్మక నాణ్యత నియంత్రణ",
     text1: "ఖచ్చితమైన, లోపాలు లేని బుక్ కీపింగ్ మరియు ప్రత్యేక వృత్తిపరమైన శ్రద్ధను అందించడానికి, మేము కేవలం",
     text1Highlight: "ప్రతి త్రైమాసికంలో 8 కొత్త ఖాతాలను మాత్రమే స్వీకరిస్తాము",
@@ -58,7 +58,7 @@ const popupTranslations = {
   },
   mr: {
     headerNotice: "कडक त्रैमासिक क्षमता मर्यादा",
-    badge: "⚠️ सूचना",
+    badge: "सूचना",
     heading: "व्यावहारिक गुणवत्ता नियंत्रण",
     text1: "अचूक, त्रुटी-मुक्त बहीखाते आणि समर्पित व्यावसायिक लक्ष सुनिश्चित करण्यासाठी, आम्ही फक्त ऑनबोर्ड करतो",
     text1Highlight: "प्रत्येक तिमाहीत 8 नवीन बिझनेस खाती",
@@ -71,7 +71,7 @@ const popupTranslations = {
   },
   ta: {
     headerNotice: "கடுமையான காலாண்டு திறன் வரம்பு",
-    badge: "⚠️ அறிவிப்பு",
+    badge: "அறிவிப்பு",
     heading: "நடைமுறை தரக் கட்டுப்பாடு",
     text1: "மிகத் துல்லியமான, பிழையற்ற கணக்குப்பதிவு மற்றும் பிரத்யேக நிபுணத்துவ கведений வழங்க, நாங்கள் காலாண்டுக்கு",
     text1Highlight: "8 புதிய வாடிக்கையாளர்களை மட்டுமே சேர்க்கிறோம்",
