@@ -115,10 +115,10 @@ export default function Hero() {
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center">
-          <h1 className="font-bold text-slate-900 mb-2 md:mb-6 h-[7.5rem] md:h-[9rem] flex items-center justify-center">
+          <h1 className="font-bold text-slate-900 mb-2 md:mb-6 h-[8rem] md:h-[10.5rem] flex items-center justify-center">
             <span
               key={currentIndex}
-              className="animate-fade-in-up px-4 text-3xl sm:text-4xl md:text-5xl lg:text-6xl leading-tight"
+              className="animate-fade-in-up px-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-tight"
             >
               {currentItem.text}.
             </span>
